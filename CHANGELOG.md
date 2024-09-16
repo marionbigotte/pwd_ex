@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.1.0 (2024-09-16)
+
+### Feature
+
+* feat(pwd_ex): add hello_world2 function ([`0b2c723`](https://github.com/marionbigotte/pwd_ex/commit/0b2c7236e86ba6d1b8814c59dd28afda50fc9686))
+
 ## v0.0.1 (2024-09-16)
 
 ### Fix
